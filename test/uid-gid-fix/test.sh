@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# This test file will be executed against one of the scenarios devcontainer.json test that
-# includes the 'color' feature with "greeting": "hello" option.
-
 set -e
 
 # Optional: Import test library bundled with the devcontainer CLI

@@ -1,0 +1,10 @@
+{
+    "name": "UID GID fixer",
+    "id": "uid-gid-fixer",
+    "version": "1.0.0",
+    "description": "A tool which removes GID 100, which is used for users",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
